@@ -3,7 +3,8 @@
  * circle given any of the other values as an input. Calculated values are left
  * in the input text fields as the new default values, doubling the fields as
  * output displays and editable new queries.
- * 
+ * @version 1.0
+ * 1/3/13
  * @author Ace_GCR_
  */
 public class CircleCalculator extends javax.swing.JFrame {
